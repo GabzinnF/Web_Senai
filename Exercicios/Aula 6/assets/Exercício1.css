@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: white;
+    background-color: red;
+
+}
+
+.text-lucas {
+    display: inline;
+    font-size: 36px;
+    font-family: "arial";
+}
+body {
+    background-color: black;
+}
