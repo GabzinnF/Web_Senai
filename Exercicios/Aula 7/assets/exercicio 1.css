@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    font-size: 36px;
+    height: 500px;
+    text-align: center;
+}
+.verde1 {
+    background-color: green;
+    height: 100px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-size: 36px;
+}
+.azul {
+    background-color: blue;
+    height: 200px;
+    width: 49.7%;
+    display: inline-block;
+    text-align: center;
+    font-size: 36px;
+}
+.amarelo {
+    background-color: yellow;
+    height: 200px;
+    width: 49.7%;
+    display: inline-block;
+    text-align: center;
+    font-size: 36px;
+
+}
+.verde2 {
+    background-color: green;
+    height: 100px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-size: 36px;
+
+}
